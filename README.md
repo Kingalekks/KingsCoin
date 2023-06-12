@@ -1,0 +1,2 @@
+# KingsCoin.sol
+Creating KingsCoin
